@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.itl_session.json
+.env
+.DS_Store
